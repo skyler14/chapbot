@@ -53,4 +53,4 @@ Intened use is for scientific / non-commercial purposes.
 
 
 ### Reddit Dataset 2
-This dataset contains recent 
+This dataset contains is three months of big query data from r/worldnews 
