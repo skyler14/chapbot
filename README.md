@@ -41,6 +41,9 @@ Insert the functions from [here](pys_sql.py)
 [one month data](Topic_model_world_news_one_month.ipynb)
 [three month data](Topic_model_world_news_three_month.ipynb)
 
+## Controversiality Prediction
+[log_reg_controversy](log_reg_controversy.ipynb)
+
 ### Reddit Dataset 1
 This dataset contains comments from Reddit.com, as collected by Reddit user Stuck_In_The_Matrix.
 One torrent per year, going from 2005 to 2017 (the last one is of course incomplete).
