@@ -2,11 +2,11 @@
 
 ## Initial Attempts to read Data
 ### Uncompressed:
-[](json_to_sql.ipynb)
+[json_to_sql](json_to_sql.ipynb)
 ### Compressed:
-[](Read_DF_SQLite.ipynb)
+[Read_DF_SQLite](Read_DF_SQLite.ipynb)
 ## PySpark Jupyter Integration
-demo: [](spark.ipynb)  
+demo: [spark](spark.ipynb)  
 
 Part of this project utilizes PySpark and embedding of it into a Jupyter environment. 
 
@@ -30,12 +30,12 @@ To automatically open in Jupyter on startup add these system variables:
 Insert the functions from [here](pys_sql.py)
 
 ## New Data: Big Query Extraction
-[](DataPrep/reddit-data-prep.ipynb)
+[reddit-data-prep](DataPrep/reddit-data-prep.ipynb)
 
 ## EDA
-[](eda_vinay_controversial.ipynb)
-[](eda_vinay_controversial.ipynb)
-[](csv_analysis.ipynb)
+[eda_vinay_controversial](eda_vinay_controversial.ipynb)
+[eda_vinay_controversial](eda_vinay_controversial.ipynb)
+[csv_analysis](csv_analysis.ipynb)
 
 ## Controversiality Analysis
 [one month data](Topic_model_world_news_one_month.ipynb)
