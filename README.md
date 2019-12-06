@@ -34,7 +34,6 @@ Insert the functions from [here](pys_sql.py)
 
 ## EDA
 [eda_vinay_controversial](eda_vinay_controversial.ipynb)
-[eda_vinay_controversial](eda_vinay_controversial.ipynb)
 [csv_analysis](csv_analysis.ipynb)
 
 ## Controversiality Analysis
